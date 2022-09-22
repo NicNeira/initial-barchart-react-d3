@@ -1,2 +1,1 @@
-# initial-barchart-react-d3
-Created with CodeSandbox
+Un programa que carga [datos de poblacion Mundial /año](https://gist.githubusercontent.com/curran/0ac4077c7fc6390f5dd33bf5c06cb5ff/raw/605c54080c7a93a417a3cea93fd52e7550e76500/UN_Population_2019.csv) usando las utilidades D3 y usa React para renderizar los datos y crear un grafico de barras basico e ira mejorando en los proximos proyectos.
